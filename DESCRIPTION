@@ -1,13 +1,13 @@
 Package: wordcount
-Title: What the Package Does (One Line, Title Case)
+Title: Test package with rgo
 Version: 0.0.0
-Authors@R:
-    person(given   = "First",
-           family  = "Last",
-           role    = c("aut", "cre"),
-           email   = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+Authors@R: person(given = "Chanyub", 
+                  family = "Park", 
+                  role = c("aut","cre"), 
+                  email = "mrchypark@gmail.com", 
+                  comment = c(ORCID = "0000-0001-6474-2570")
+                  )
 Description: What the package does (one paragraph).
-License: See LICENSE directory
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
